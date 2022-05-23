@@ -1,0 +1,31 @@
+.column1 {
+  float: left;
+  width: 30%;
+  
+}
+.column2 {
+  float: right;
+  padding: 0px; 
+  width: 200px;
+  
+  
+
+}
+  
+.container {
+  position: relative;
+  text-align: center;
+  color:white;
+  
+}
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  color:black;
+}
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: -300px;
+}
